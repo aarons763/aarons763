@@ -1,7 +1,7 @@
 - Electrical Engineering at University of Waterloo
 
 - Check out my website:
-  - aarons763.github.io
+  - https://aarons763.github.io
 
 - Find me:
   - Email: aaronsun763@gmail.com
